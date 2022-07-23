@@ -7,11 +7,11 @@
 这是一个**作业**类型的项目，实用性和美观程度**远不如**同类型的上千star的项目，如果你**只是想使用**的话，建议去使用那些项目，如果你和我一样只是一个**初学者**，那我希望这个项目能给你些许的帮助
 
 ## 库
-requests
-json
-jsonpath
-urllib.parse.quote
-random
-time
-os
+requests,
+json,
+jsonpath,
+urllib.parse.quote,
+random,
+time,
+os,
 lxml.etree
